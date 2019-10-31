@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void test(){
-        System.out.println("1111");
+            System.out.println(1<<10);
     }
 }
