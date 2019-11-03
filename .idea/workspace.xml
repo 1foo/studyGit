@@ -14,11 +14,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="57">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
               <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,12 +111,12 @@
       <workItem from="1572492238555" duration="62000" />
       <workItem from="1572492329690" duration="5864000" />
       <workItem from="1572512785264" duration="574000" />
-      <workItem from="1572794650671" duration="515000" />
+      <workItem from="1572794650671" duration="1058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7069000" />
+    <option name="totallyTimeSpent" value="7612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,7 +147,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5750708" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.68130314" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -167,11 +167,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
